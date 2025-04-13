@@ -1,3 +1,10 @@
+GROUP MEMBERS:
+1. Peter Nguyo - PM5374589@GMAIL.COM
+2. Nontobeko Wendy Ngwenya - nontobekon426@gmail.com
+3. Mercy Njoroge - mercykaren49@gmail.com
+
+
+DESCRIPTION: 
 # DATABASE-MYSQL-GROUP-ASSIGNMENT-PLP
 This repository contains the SQL scripts for building a MySQL database to manage a bookstore. It includes the database schema design, SQL commands for creating tables, instructions for loading sample data, and examples of setting up user roles and privileges. It comes along with draw.io diagrams visualizing the database schema and relationships
 
